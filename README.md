@@ -3,16 +3,17 @@
 
 ![img](https://blog.acelerato.com/wp-content/uploads/2020/08/5-beneficios-da-gesta%CC%83o-de-projetos-para-a-sua-empresa-1200x640.png)
 
-## Para obter o máximo de aproveitamento, siga as orientações a seguir:
-
-- Fork esse repositório e não altere no nome do repositório
-- Coloque como título o seu nome completo. Ex: # SEU NOME
-- insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
-
-# Tereza Oliveira
+# João Roberto
 
 Atividade 1: Trello 
-- [Grupo](link)
+- [Metas](https://trello.com/invite/b/qjE6kFSG/ATTI2c5bd1fb67dd9290f119a8a8ea79b15b0984743C/metas)
 
+- [Gerenciamento de Projetos](https://trello.com/invite/b/ksOulXjE/ATTI80a8d24d73c39cb9d2b4fdb00380034d2A4DF620/gerenciamento-de-projetos)
+
+- [Análise SWOT / netflix](https://trello.com/invite/b/prGwfX4m/ATTI4c484cc3ab5536cbb3e8d8e699b22df7E99CAA21/analise-swot-netflix)
+
+### Atividade 2:Canva
+
+- [ Typescrit ]()
 
 
