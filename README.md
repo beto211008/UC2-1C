@@ -16,4 +16,6 @@
 
 - [ Typescrit ](https://www.canva.com/design/DAGEjUJ54Pc/feL3I6NAOpKGJy6lopU_aQ/edit?utm_content=DAGEjUJ54Pc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+### Atividade 3: DOCS
 
+- [Emprego dos sonhos](https://docs.google.com/document/d/1AM8Tii-ABlPczL2OJTxu3UNyEvC8V3pkYIYmUT5hmOg/edit?usp=sharing)
